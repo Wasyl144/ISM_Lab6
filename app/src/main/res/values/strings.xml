@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab 6 - MF</string>
+    <string name="removeFromDatabase">Usuń</string>
+    <string name="addToDatabase">Dodaj</string>
+    <string name="quantity_unit">Jednostka</string>
+    <string name="quantity_placeholder">Ilość</string>
+    <string name="assormentstate_label">Stan magazynu</string>
+
+</resources>
